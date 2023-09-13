@@ -1,5 +1,5 @@
 # Jaegnal
-Build as the final project for CSCI 339: Distributed Systems.
+Built as the final project for CSCI 339: Distributed Systems.
 
 A distributed P2P minimal messaging app that uses the Chord protocol for the Distributed Hash Table (DHT).
 
